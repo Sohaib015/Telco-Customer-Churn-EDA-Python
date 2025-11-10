@@ -1,7 +1,7 @@
 # Telco Customer Churn Analysis
 
 ## Executive Summary
-This project explores customer churn within a telecommunications provider’s dataset of 7,043 subscribers across 21 features. Through comprehensive exploratory data analysis (EDA), key drivers of churn—such as month-to-month contracts, early tenure, and electronic check payments—were identified, along with core retention factors like fixed-term agreements, long service duration, and bundled security/support offerings. Actionable insights guide targeted interventions to improve customer lifetime value and reduce attrition.
+This project explores customer churn within a telecommunications provider’s dataset of 7,043 subscribers across 21 features. Through comprehensive exploratory data analysis (EDA), key drivers of churn such as month-to-month contracts, early tenure, and electronic check payments were identified, along with core retention factors like fixed-term agreements, long service duration, and bundled security/support offerings. Actionable insights guide targeted interventions to improve customer lifetime value and reduce attrition.
 
 ## Business Problem
 Telecom companies face significant revenue loss when customers cancel services. With a churn rate of 26.54%, understanding which segments are most at risk and why is critical to designing retention programs that minimize churn related costs and maximize lifetime value.
@@ -11,7 +11,7 @@ The analysis began with ingestion of 7,043 customer records, followed by validat
 
 Descriptive statistics were generated to assess central tendencies and distributions for tenure, MonthlyCharges, and TotalCharges. These summaries provided context for the subsequent visualization choices.
 
-A suite of univariate and bivariate visualizations—including count plots, histograms, pie charts, and stacked bar charts—was produced to explore relationships between churn and variables such as demographics, contract type, service usage, and payment method.
+A suite of univariate and bivariate visualizations including count plots, histograms, pie charts, and stacked bar charts—was produced to explore relationships between churn and variables such as demographics, contract type, service usage, and payment method.
 
 ## Skills and Tools
 - Python  
@@ -46,7 +46,7 @@ A suite of univariate and bivariate visualizations—including count plots, hist
   Incentivize month-to-month customers to upgrade to one- or two-year plans.
 
 - Strengthen early-stage engagement  
-  Implement welcome flows, onboarding calls, and value-driven nudges during the first 90 days.
+  Implement welcome flows, onboarding calls, and value driven nudges during the first 90 days.
 
 - Bundle retention-friendly services  
   Offer discounts on OnlineSecurity and TechSupport packages.
