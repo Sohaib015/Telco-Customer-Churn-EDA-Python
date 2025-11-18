@@ -11,7 +11,7 @@ The analysis began with ingestion of 7,043 customer records, followed by validat
 
 Descriptive statistics were generated to assess central tendencies and distributions for tenure, MonthlyCharges, and TotalCharges. These summaries provided context for the subsequent visualization choices.
 
-A suite of univariate and bivariate visualizations including count plots, histograms, pie charts, and stacked bar charts—was produced to explore relationships between churn and variables such as demographics, contract type, service usage, and payment method.
+A suite of univariate and bivariate visualizations including count plots, histograms, pie charts, and stacked bar charts was produced to explore relationships between churn and variables such as demographics, contract type, service usage, and payment method.
 
 ## Skills and Tools
 - Python  
